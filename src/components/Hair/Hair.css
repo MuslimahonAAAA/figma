@@ -1,0 +1,16 @@
+.dot img{
+    display: flex;
+    align-self: center;
+    margin: 20px auto;
+ 
+ }
+ .type{
+    display: grid;
+    grid-template-columns: repeat( 3 ,auto);
+    margin-top: 60px;
+    }
+    .type img{
+    margin: 20px auto;
+    
+    }
+    

@@ -1,0 +1,17 @@
+.Creams{
+    display: flex;
+    justify-content: center;
+    margin: 50px auto;
+    align-items: center;
+ }
+ .c img{
+    height: 333px;
+    width: 333px;
+ }
+ .c{
+    margin: 84px 50px  ;
+    text-align: center;
+ }
+ .c p{
+    padding: 5px 3px;
+ }

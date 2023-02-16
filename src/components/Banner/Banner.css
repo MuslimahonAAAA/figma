@@ -1,0 +1,40 @@
+.banner {
+  display: flex;
+  flex-direction: column;
+  height: 600px;
+  background-color: white;
+  align-items: center;
+}
+.banner h1 {
+  width: 287px;
+  height: 150px;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 32px;
+  line-height: 38px;
+  text-align: center;
+
+  color: #270515;
+
+  text-align: center;
+
+  color: #270515;
+  margin-top: 159px;
+}
+.banner button {
+  margin-top: 100px;
+  padding: 14px 26px;
+
+  background: #270515;
+  border: 2px solid #270515;
+  border-radius: 0px;
+  color: white;
+  width: 136px;
+  height: 46px;
+  text-align: center;
+
+  text-transform: uppercase;
+
+  color: #ffffff;
+}

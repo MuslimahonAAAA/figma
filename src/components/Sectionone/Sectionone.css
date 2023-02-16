@@ -1,0 +1,44 @@
+
+.sectionone{
+
+    background-color:#FBF6F0 ;
+}
+.one{
+
+    display: flex;
+    align-items: center;
+}
+.one>div{
+    margin-top: 124px;
+    display: flex;
+    flex-direction: column;
+    padding: 2px 100px;
+align-items: center;
+}
+
+
+.one p{
+    width: 200px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 20px;
+    /* or 130% */
+    
+    text-align: center;
+   
+    color: #270515;  
+}
+.by p{
+    margin-top: 53px;
+}
+.com p{
+    margin-top: 53px;
+}
+
+
+
+
+
+

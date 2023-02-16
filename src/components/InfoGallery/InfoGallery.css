@@ -1,0 +1,321 @@
+.text {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  height: 507px;
+  width: 468px;
+
+  background-color: whitesmoke;
+  padding: 30px;
+  position: absolute;
+  margin-top: 75px;
+  left: 53px;
+}
+.text p {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 16px;
+  /* identical to box height, or 130% */
+
+  text-align: center;
+  letter-spacing: 1.8px;
+  text-transform: uppercase;
+
+  color: #270515;
+}
+.text h5 {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 55px;
+  line-height: 57px;
+  /* identical to box height, or 104% */
+  margin-bottom: 30px;
+  text-align: center;
+  margin-top: 10px;
+  color: #270515;
+}
+.text h2 {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 21px;
+  line-height: 29px;
+  /* or 140% */
+
+  text-align: center;
+
+  color: #270515;
+
+  width: 361px;
+  margin-bottom: 42px;
+}
+.text h3 {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 22px;
+  /* or 150% */
+
+  text-align: center;
+  margin-bottom: 20px;
+  color: #270515;
+}
+.text h4 {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 22px;
+  /* or 150% */
+
+  text-align: center;
+
+  color: #270515;
+}
+.split {
+  display: flex;
+
+  width: 100%;
+}
+.split .rets {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  padding: 40px;
+  background-color: #ffffff;
+}
+.split img {
+  width: 100%;
+  height: 650px;
+}
+
+.rets p {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 16px;
+  /* identical to box height, or 130% */
+
+  text-align: center;
+  letter-spacing: 1.8px;
+  text-transform: uppercase;
+
+  color: #270515;
+}
+.rets h5 {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 55px;
+  line-height: 57px;
+  /* identical to box height, or 104% */
+  margin-bottom: 30px;
+  text-align: center;
+  margin-top: 10px;
+  width: 400px;
+  margin: 20px auto;
+  color: #270515;
+}
+.rets h2 {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 21px;
+  line-height: 29px;
+  /* or 140% */
+
+  text-align: center;
+
+  color: #270515;
+  margin: 20px auto;
+  width: 435px;
+  margin-bottom: 42px;
+}
+.rets h3 {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 22px;
+  /* or 150% */
+
+  text-align: center;
+  margin-bottom: 20px;
+  color: #270515;
+
+  width: 423px;
+}
+.rets img {
+  height: 47px;
+  width: 172px;
+  margin: 20px auto;
+}
+.shets img {
+  width: 1165px;
+}
+
+.shets p {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 16px;
+  /* identical to box height, or 130% */
+
+  text-align: center;
+  letter-spacing: 1.8px;
+  text-transform: uppercase;
+
+  color: #270515;
+}
+.shets h5 {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 55px;
+  line-height: 57px;
+  /* identical to box height, or 104% */
+  margin-bottom: 30px;
+  text-align: center;
+  margin-top: 10px;
+  width: 400px;
+  margin: 20px auto;
+  color: #270515;
+}
+.shets h2 {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 21px;
+  line-height: 29px;
+  /* or 140% */
+
+  text-align: center;
+
+  color: #270515;
+  margin: 20px auto;
+  width: 435px;
+  margin-bottom: 42px;
+}
+.shets h3 {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 22px;
+  /* or 150% */
+
+  text-align: center;
+  margin-bottom: 20px;
+  color: #270515;
+  margin: 20px auto;
+  width: 423px;
+}
+.shets img {
+  height: 47px;
+  width: 172px;
+}
+.shets {
+  padding: 40px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 50%;
+  flex: 1;
+  background-color: #ffffff;
+}
+.vas {
+  display: flex;
+}
+.vas img {
+  width: 600px;
+  height: 650px;
+  object-fit: cover;
+}
+
+
+.sa img {
+  display: flex;
+  align-self: center;
+  margin: 20px auto;
+}
+
+.yets p {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 16px;
+  /* identical to box height, or 130% */
+
+  text-align: center;
+  letter-spacing: 1.8px;
+  text-transform: uppercase;
+
+  color: #270515;
+}
+.yets h5 {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 55px;
+  line-height: 57px;
+  /* identical to box height, or 104% */
+  margin-bottom: 30px;
+  text-align: center;
+  margin-top: 10px;
+  width: 200px;
+  margin: 20px auto;
+  color: #270515;
+}
+.yets h2 {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 21px;
+  line-height: 29px;
+  /* or 140% */
+
+  text-align: center;
+
+  color: #270515;
+  margin: 20px auto;
+  width: 435px;
+  margin-bottom: 42px;
+}
+.yets h3 {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 22px;
+  /* or 150% */
+
+  text-align: center;
+  margin-bottom: 20px;
+  color: #270515;
+  margin: 20px auto;
+  width: 423px;
+}
+.yets img {
+  height: 47px;
+  width: 172px;
+}
+.yets {
+  padding: 40px;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  align-items: center;
+  width: 100%;
+  background-color: white;
+}
+
+.b img {
+  width: 600px;
+}

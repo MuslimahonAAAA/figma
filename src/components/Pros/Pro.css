@@ -1,0 +1,29 @@
+.hair{
+    display: flex;
+ 
+    align-items: center;
+    padding: 30px 40px;
+}
+.hair .h{
+  
+
+margin-left: 20px;
+}
+.hair img{
+ width: 100%;
+}
+.h p{
+    margin: 20px auto;
+    width:309px ;
+    font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 20px;
+
+/* or 130% */
+
+text-align: center;
+
+color: #270515;
+}

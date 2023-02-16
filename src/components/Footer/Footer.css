@@ -1,0 +1,71 @@
+
+
+.logo img{
+    margin: 95px  152px;
+
+}
+.links .L{
+    display: flex;
+    flex-direction: column;
+  align-items: center;
+  margin: 20px auto;
+
+}
+.L{
+    height: 300px;
+}
+ 
+.L h4{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 25px;
+    /* identical to box height, or 140% */
+    
+    
+    color: #270515;
+       
+}
+.L p{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 25px;
+    /* identical to box height, or 140% */
+    
+
+    color: #270515;
+    
+}
+#long  {
+    height: 92px;
+    width: 252px;
+}
+.links img{
+    width: 208px;
+    height: 46px;
+}
+.pay{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+   margin-top: 300px;
+   padding: 30px;
+}
+.pay img{
+    width:297px ;
+}
+.pay p{
+    margin-bottom: 10px;
+    text-align: center;
+    color: rgba(39, 5, 21, 0.6);
+}  
+#bon{
+    display: flex;
+    align-self: center;
+    margin: 20px auto;
+    width: 94px;
+    margin-bottom: 129px;
+}

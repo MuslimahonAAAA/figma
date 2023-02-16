@@ -1,0 +1,35 @@
+.sectiontwo h1{
+
+    text-align: center;
+    font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 44px;
+line-height: 33px;
+/* or 75% */
+
+text-align: center;
+width:1052px ;
+
+color: #270515;
+margin: 20px auto;
+margin-bottom: 34px;
+
+}
+.s {
+    font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 22px;
+/* identical to box height, or 150% */
+
+text-align: center;
+
+color: #270515;
+margin: 0px auto;
+}
+.info img{
+    width: 100%;
+margin-top: 34px;
+}
